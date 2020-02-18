@@ -1,5 +1,5 @@
 {
-  "title": "MMMM YYYY",
+  "title": "YYYY年 MMMM",
   "weekdays": "W",
   "navMonths": "MMM",
   "input": ["L", "YYYY-MM-DD", "YYYY/MM/DD"],
